@@ -52,7 +52,7 @@
             <a class="scroll-to-top rounded" href="#page-top">
                 <i class="fas fa-angle-up"></i>
             </a>
-
+    </div>
    <!--logout modal -->
                   
    @include('layouts.admin-partials._logout-modal')
